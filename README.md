@@ -18,11 +18,11 @@ By default the data extracts to the directory "HCI HAR Dataset", which is where 
 
 
 # Files #
-The only file required by this code is the "run_analysis.R" script. Sourcing the script into R will produce the desired output, which will be written to "tidy_means.csv".
+The only file required by this code is the "run_analysis.R" script. Sourcing the script into R will produce the desired output, which will be written to "tidy_mean.csv".
 
 # Example #
 
-Example Usage> source('~/Documents/Coursera/Getting And Cleaning Data/ProgAssign1/run_analysis.R')
+Example Usage> source('~C:/Users/alok/GDrive/Course/Getting and Cleaning Data/Data/getdata_projectfiles_UCI HAR Dataset/run_analysis.R')
 Loading and Merging Training and Test Data..
 Writing tidy data (Mean of Mean & StdDev variables per Subject by Activity) to tidy_mean.csv
 
